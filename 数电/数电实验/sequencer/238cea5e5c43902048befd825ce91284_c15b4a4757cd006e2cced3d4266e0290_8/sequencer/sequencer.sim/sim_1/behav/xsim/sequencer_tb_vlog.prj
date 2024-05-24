@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../counter.v" \
+"../../../../../mux81.v" \
+"../../../../../register.v" \
+"../../../../../sequencer.v" \
+"../../../../../sequencer_module.v" \
+"../../../../../sequencer_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

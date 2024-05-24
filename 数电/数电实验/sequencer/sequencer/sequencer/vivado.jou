@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue May 23 23:43:11 2023
+# Process ID: 29396
+# Current directory: D:/D.文档/数电/sequencer/sequencer/sequencer
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3260 D:\D.文档\数电\sequencer\sequencer\sequencer\sequencer.xpr
+# Log file: D:/D.文档/数电/sequencer/sequencer/sequencer/vivado.log
+# Journal file: D:/D.文档/数电/sequencer/sequencer/sequencer\vivado.jou
+# Running On: OMEN-15, OS: Windows, CPU Frequency: 2895 MHz, CPU Physical cores: 16, Host memory: 16497 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/D.文档/数电/sequencer/sequencer/sequencer/sequencer.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source sequencer_tb.tcl
+close_sim

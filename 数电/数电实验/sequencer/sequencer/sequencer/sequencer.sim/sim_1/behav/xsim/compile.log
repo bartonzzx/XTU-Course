@@ -1,0 +1,22 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/D.文档/数电/sequencer/sequencer/counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/D.文档/数电/sequencer/sequencer/mux81.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux81
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/D.文档/数电/sequencer/sequencer/register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/D.文档/数电/sequencer/sequencer/sequencer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sequencer
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/D.文档/数电/sequencer/sequencer/sequencer_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sequencer_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/D.文档/数电/sequencer/sequencer/sequencer_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'counter' [D:/D.文档/数电/sequencer/sequencer/counter.v:1]
+INFO: [VRFC 10-311] analyzing module mux81
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'mux81' [D:/D.文档/数电/sequencer/sequencer/mux81.v:1]
+INFO: [VRFC 10-311] analyzing module sequencer_module
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'sequencer_module' [D:/D.文档/数电/sequencer/sequencer/sequencer_module.v:1]
+INFO: [VRFC 10-311] analyzing module register
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'register' [D:/D.文档/数电/sequencer/sequencer/register.v:1]
+INFO: [VRFC 10-311] analyzing module sequencer_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/D.文档/数电/sequencer/sequencer/sequencer/sequencer.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

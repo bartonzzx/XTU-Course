@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri May 27 12:13:53 2022
+# Process ID: 24176
+# Current directory: C:/数字逻辑与数字电路/counter_decl7s/counter_decl7s/counter_decl7s.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/数字逻辑与数字电路/counter_decl7s/counter_decl7s/counter_decl7s.sim/sim_1/behav/xsim/xsim.dir/conuter_decl7s_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/数字逻辑与数字电路/counter_decl7s/counter_decl7s/counter_decl7s.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/数字逻辑与数字电路/counter_decl7s/counter_decl7s/counter_decl7s.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/数字逻辑与数字电路/counter_decl7s/counter_decl7s/counter_decl7s.sim/sim_1/behav/xsim/xsim.dir/conuter_decl7s_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'C:/数字逻辑与数字电路/counter_decl7s/counter_decl7s/counter_decl7s.sim/sim_1/behav/xsim/xsim.dir/conuter_decl7s_tb_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Fri May 27 12:14:00 2022. For additional details about this file, please refer to the WebTalk help file at C:/vivado/Vivado/2019.2/doc/webtalk_introduction.html.
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:07 . Memory (MB): peak = 92.422 ; gain = 0.000
+INFO: [Common 17-206] Exiting Webtalk at Fri May 27 12:14:00 2022...

@@ -1,0 +1,28 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: F:/xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot sequencer_tb_behav xil_defaultlib.sequencer_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer.v" Line 1. Module sequencer doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/register.v" Line 1. Module register doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer_module.v" Line 1. Module sequencer_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/counter.v" Line 1. Module counter doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/mux81.v" Line 1. Module mux81 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer.v" Line 1. Module sequencer doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/register.v" Line 1. Module register doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer_module.v" Line 1. Module sequencer_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/counter.v" Line 1. Module counter doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/mux81.v" Line 1. Module mux81 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.register
+Compiling module xil_defaultlib.counter
+Compiling module xil_defaultlib.mux81
+Compiling module xil_defaultlib.sequencer_module
+Compiling module xil_defaultlib.sequencer
+Compiling module xil_defaultlib.sequencer_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot sequencer_tb_behav

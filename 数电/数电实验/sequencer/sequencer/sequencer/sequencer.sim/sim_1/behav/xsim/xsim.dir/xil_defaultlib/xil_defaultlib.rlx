@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/D.文档/数电/sequencer/sequencer/counter.v,1622247432,verilog,,D:/D.文档/数电/sequencer/sequencer/mux81.v,,counter,,,,,,,,
+D:/D.文档/数电/sequencer/sequencer/mux81.v,1622247448,verilog,,D:/D.文档/数电/sequencer/sequencer/register.v,,mux81,,,,,,,,
+D:/D.文档/数电/sequencer/sequencer/register.v,1622247466,verilog,,D:/D.文档/数电/sequencer/sequencer/sequencer.v,,register,,,,,,,,
+D:/D.文档/数电/sequencer/sequencer/sequencer.v,1622247456,verilog,,D:/D.文档/数电/sequencer/sequencer/sequencer_module.v,,sequencer,,,,,,,,
+D:/D.文档/数电/sequencer/sequencer/sequencer/sequencer.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/D.文档/数电/sequencer/sequencer/sequencer_module.v,1622247468,verilog,,D:/D.文档/数电/sequencer/sequencer/sequencer_tb.v,,sequencer_module,,,,,,,,
+D:/D.文档/数电/sequencer/sequencer/sequencer_tb.v,1622247462,verilog,,,D:/D.文档/数电/sequencer/sequencer/counter.v;D:/D.文档/数电/sequencer/sequencer/mux81.v;D:/D.文档/数电/sequencer/sequencer/sequencer_module.v;D:/D.文档/数电/sequencer/sequencer/register.v,sequencer_tb,,,,,,,,

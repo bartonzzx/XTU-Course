@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri May 27 11:56:39 2022
+# Process ID: 1764
+# Current directory: C:/数字逻辑与数字电路/sequencer/sequencer
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22104 C:\数字逻辑与数字电路\sequencer\sequencer\sequencer.xpr
+# Log file: C:/数字逻辑与数字电路/sequencer/sequencer/vivado.log
+# Journal file: C:/数字逻辑与数字电路/sequencer/sequencer\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/数字逻辑与数字电路/sequencer/sequencer/sequencer.xpr
+INFO: [Project 1-313] Project file moved from 'E:/sequencer/sequencer' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/vivado/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:24 ; elapsed = 00:00:11 . Memory (MB): peak = 791.898 ; gain = 139.410
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri May 27 11:58:02 2022...

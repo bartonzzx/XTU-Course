@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a200tfbg676-2" LaunchTime="1684164839">
+  <File Type="ROUTE-PWR" Name="sequencer_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="sequencer.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="sequencer_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="sequencer_reports.tcl"/>
+  <File Type="BITSTR-MSK" Name="sequencer.msk"/>
+  <File Type="ROUTE-CLK" Name="sequencer_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="sequencer.vdi"/>
+  <File Type="BG-BIT" Name="sequencer.bit"/>
+  <File Type="BG-DRC" Name="sequencer.drc"/>
+  <File Type="BG-BGN" Name="sequencer.bgn"/>
+  <File Type="BG-BIN" Name="sequencer.bin"/>
+  <File Type="BITSTR-RBT" Name="sequencer.rbt"/>
+  <File Type="BITSTR-NKY" Name="sequencer.nky"/>
+  <File Type="BITSTR-BMM" Name="sequencer_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="sequencer.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="sequencer_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="sequencer.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="sequencer_methodology_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="sequencer.ltx"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="OPT-DRC" Name="sequencer_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="sequencer.hwdef"/>
+  <File Type="PLACE-IO" Name="sequencer_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="sequencer_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="sequencer_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="sequencer_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="sequencer_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC" Name="sequencer_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="sequencer_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="sequencer_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="sequencer_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="sequencer_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="sequencer_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="sequencer_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="sequencer_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="sequencer_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="sequencer_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="sequencer_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-BUS-SKEW" Name="sequencer_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="sequencer_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="sequencer_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="sequencer_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="sequencer_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="sequencer_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="sequencer_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="sequencer_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="sequencer_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="sequencer_postroute_physopt_bb.dcp"/>
+  <File Type="ROUTE-DRC-RPX" Name="sequencer_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="sequencer_methodology_drc_routed.rpx"/>
+  <File Type="PDI-FILE" Name="sequencer.pdi"/>
+  <File Type="RCFI_FILE" Name="sequencer.rcfi"/>
+  <File Type="CFI_FILE" Name="sequencer.cfi"/>
+  <File Type="RNPI_FILE" Name="sequencer.rnpi"/>
+  <File Type="NPI_FILE" Name="sequencer.npi"/>
+  <File Type="RBD_FILE" Name="sequencer.rbd"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../counter.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../mux81.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../register.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../sequencer_module.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../sequencer.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="sequencer"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/../sequencer.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>

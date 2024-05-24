@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/D.文档/数电/counter_decl7s/counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/D.文档/数电/counter_decl7s/counter_decl7s.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_decl7s
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/D.文档/数电/counter_decl7s/decl7s.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decl7s
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/D.文档/数电/counter_decl7s/counter_decl7s_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'counter' [D:/D.文档/数电/counter_decl7s/counter.v:1]
+INFO: [VRFC 10-311] analyzing module decl7s
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'decl7s' [D:/D.文档/数电/counter_decl7s/decl7s.v:1]
+INFO: [VRFC 10-311] analyzing module counter_decl7s
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'counter_decl7s' [D:/D.文档/数电/counter_decl7s/counter_decl7s.v:1]
+INFO: [VRFC 10-311] analyzing module conuter_decl7s_tb

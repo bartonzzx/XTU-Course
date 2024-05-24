@@ -1,0 +1,24 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/mux81.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux81
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sequencer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer_module.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sequencer_module
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'counter' [C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/counter.v:1]
+INFO: [VRFC 10-311] analyzing module mux81
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'mux81' [C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/mux81.v:1]
+INFO: [VRFC 10-311] analyzing module sequencer_module
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'sequencer_module' [C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer_module.v:1]
+INFO: [VRFC 10-311] analyzing module sequencer
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'sequencer' [C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer.v:1]
+INFO: [VRFC 10-311] analyzing module register
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'register' [C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/register.v:1]
+INFO: [VRFC 10-311] analyzing module sequencer_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer/sequencer.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

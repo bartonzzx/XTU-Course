@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat May 29 14:55:07 2021
+# Process ID: 3788
+# Current directory: F:/sedetector/sedetector/sedetector.runs/synth_1
+# Command line: vivado.exe -log sqdetector_display.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source sqdetector_display.tcl
+# Log file: F:/sedetector/sedetector/sedetector.runs/synth_1/sqdetector_display.vds
+# Journal file: F:/sedetector/sedetector/sedetector.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source sqdetector_display.tcl -notrace

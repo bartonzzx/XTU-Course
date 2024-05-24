@@ -1,0 +1,32 @@
+
+*** Running vivado
+    with args -log counter_decl7s.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source counter_decl7s.tcl
+
+
+
+****** Vivado v2022.2 (64-bit)
+  **** SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+  **** IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+
+source counter_decl7s.tcl -notrace
+Command: synth_design -top counter_decl7s -part xc7a200tfbg676-2
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a200t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a200t'
+INFO: [Device 21-403] Loading part xc7a200tfbg676-2
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 29768
+INFO: [Synth 8-11241] undeclared symbol 'REGCCE', assumed default net type 'wire' [F:/xilinx/Vivado/2022.2/data/verilog/src/unimacro/BRAM_SINGLE_MACRO.v:2170]
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:06 . Memory (MB): peak = 1256.891 ; gain = 406.488
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'counter_decl7s' [D:/D.文档/数电/counter_decl7s/counter_decl7s.v:1]
+INFO: [Synth 8-6157] synthesizing module 'counter' [D:/D.文档/数电/counter_decl7s/counter.v:1]
+INFO: [Synth 8-6155] done synthesizing module 'counter' (0#1) [D:/D.文档/数电/counter_decl7s/counter.v:1]
+INFO: [Synth 8-6157] synthesizing module 'decl7s' [D:/D.文档/数电/counter_decl7s/decl7s.v:1]
+INFO: [Synth 8-226] default block is never used [D:/D.文档/数电/counter_decl7s/decl7s.v:8]
+INFO: [Synth 8-6155] done synthesizing module 'decl7s' (0#1) [D:/D.文档/数电/counter_decl7s/decl7s.v:1]
+INFO: [Synth 8-6155] done synthesizing module 'counter_decl7s' (0#1) [D:/D.文档/数电/counter_decl7s/counter_decl7s.v:1]
+TclStackFree: incorrect freePtr. Call out of sequence?

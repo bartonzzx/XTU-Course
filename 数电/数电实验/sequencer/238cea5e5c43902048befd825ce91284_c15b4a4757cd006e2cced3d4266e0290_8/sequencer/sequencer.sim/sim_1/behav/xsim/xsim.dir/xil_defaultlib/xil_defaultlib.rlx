@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/counter.v,1622108352,verilog,,C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/mux81.v,,counter,,,,,,,,
+C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/mux81.v,1622118290,verilog,,C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/register.v,,mux81,,,,,,,,
+C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/register.v,1622106948,verilog,,C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer.v,,register,,,,,,,,
+C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer.v,1622108120,verilog,,C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer_module.v,,sequencer,,,,,,,,
+C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer/sequencer.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer_module.v,1622118488,verilog,,C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer_tb.v,,sequencer_module,,,,,,,,
+C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer_tb.v,1622119300,verilog,,,C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/counter.v;C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/mux81.v;C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer_module.v;C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/sequencer.v;C:/Users/HP/Desktop/238cea5e5c43902048befd825ce91284_c15b4a4757cd006e2cced3d4266e0290_8/register.v,sequencer_tb,,,,,,,,

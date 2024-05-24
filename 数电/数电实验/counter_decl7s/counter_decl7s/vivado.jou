@@ -1,0 +1,38 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Tue May  9 13:13:33 2023
+# Process ID: 5480
+# Current directory: D:/D.文档/数电/counter_decl7s/counter_decl7s
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15988 D:\D.文档\数电\counter_decl7s\counter_decl7s\counter_decl7s.xpr
+# Log file: D:/D.文档/数电/counter_decl7s/counter_decl7s/vivado.log
+# Journal file: D:/D.文档/数电/counter_decl7s/counter_decl7s\vivado.jou
+# Running On: OMEN-15, OS: Windows, CPU Frequency: 2895 MHz, CPU Physical cores: 16, Host memory: 16497 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/D.文档/数电/counter_decl7s/counter_decl7s/counter_decl7s.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source conuter_decl7s_tb.tcl
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+current_hw_device [get_hw_devices xc7a200t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a200t_0] 0]
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+wait_on_run impl_1
+close_sim
